@@ -13,7 +13,7 @@
 					<key>url</key>
 					<string>http://www.aszhuan.com/IPA/aszhuan.ipa</string>
 				</dict>
-			</array>
+			</array> 
 			<key>metadata</key>
 			<dict>
 				<key>bundle-identifier</key>
